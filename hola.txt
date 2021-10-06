@@ -6,3 +6,4 @@ agrego mas lineas
 3
 Agrego mas lineas 10/6
 borro eln umero 2
+789
