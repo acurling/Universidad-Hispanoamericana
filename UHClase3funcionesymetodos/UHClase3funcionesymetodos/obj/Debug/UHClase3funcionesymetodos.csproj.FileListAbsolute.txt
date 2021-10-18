@@ -1,0 +1,7 @@
+C:\Users\CURLING\source\repos\UHClase3funcionesymetodos\UHClase3funcionesymetodos\bin\Debug\UHClase3funcionesymetodos.exe.config
+C:\Users\CURLING\source\repos\UHClase3funcionesymetodos\UHClase3funcionesymetodos\bin\Debug\UHClase3funcionesymetodos.exe
+C:\Users\CURLING\source\repos\UHClase3funcionesymetodos\UHClase3funcionesymetodos\bin\Debug\UHClase3funcionesymetodos.pdb
+C:\Users\CURLING\source\repos\UHClase3funcionesymetodos\UHClase3funcionesymetodos\obj\Debug\UHClase3funcionesymetodos.csproj.AssemblyReference.cache
+C:\Users\CURLING\source\repos\UHClase3funcionesymetodos\UHClase3funcionesymetodos\obj\Debug\UHClase3funcionesymetodos.csproj.CoreCompileInputs.cache
+C:\Users\CURLING\source\repos\UHClase3funcionesymetodos\UHClase3funcionesymetodos\obj\Debug\UHClase3funcionesymetodos.exe
+C:\Users\CURLING\source\repos\UHClase3funcionesymetodos\UHClase3funcionesymetodos\obj\Debug\UHClase3funcionesymetodos.pdb
