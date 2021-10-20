@@ -1,0 +1,16 @@
+C:\Users\berna\Desktop\Progra Examen\ExamenBernalGutierrezQuesada\bin\Debug\ExamenBernalGutierrezQuesada.exe.config
+C:\Users\berna\Desktop\Progra Examen\ExamenBernalGutierrezQuesada\bin\Debug\ExamenBernalGutierrezQuesada.exe
+C:\Users\berna\Desktop\Progra Examen\ExamenBernalGutierrezQuesada\bin\Debug\ExamenBernalGutierrezQuesada.pdb
+C:\Users\berna\Desktop\Progra Examen\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.csproj.AssemblyReference.cache
+C:\Users\berna\Desktop\Progra Examen\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.csproj.SuggestedBindingRedirects.cache
+C:\Users\berna\Desktop\Progra Examen\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.csproj.CoreCompileInputs.cache
+C:\Users\berna\Desktop\Progra Examen\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.exe
+C:\Users\berna\Desktop\Progra Examen\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.pdb
+C:\Users\lanr3b\Downloads\ExamenBernalGutierrezQuesada\bin\Debug\ExamenBernalGutierrezQuesada.exe.config
+C:\Users\lanr3b\Downloads\ExamenBernalGutierrezQuesada\bin\Debug\ExamenBernalGutierrezQuesada.exe
+C:\Users\lanr3b\Downloads\ExamenBernalGutierrezQuesada\bin\Debug\ExamenBernalGutierrezQuesada.pdb
+C:\Users\lanr3b\Downloads\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.csproj.AssemblyReference.cache
+C:\Users\lanr3b\Downloads\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.csproj.SuggestedBindingRedirects.cache
+C:\Users\lanr3b\Downloads\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.csproj.CoreCompileInputs.cache
+C:\Users\lanr3b\Downloads\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.exe
+C:\Users\lanr3b\Downloads\ExamenBernalGutierrezQuesada\obj\Debug\ExamenBernalGutierrezQuesada.pdb
