@@ -1,0 +1,7 @@
+D:\Universidad Hispanomericana\Programacion 2\Examen1\Examen1\bin\Debug\Examen1.exe.config
+D:\Universidad Hispanomericana\Programacion 2\Examen1\Examen1\bin\Debug\Examen1.exe
+D:\Universidad Hispanomericana\Programacion 2\Examen1\Examen1\bin\Debug\Examen1.pdb
+D:\Universidad Hispanomericana\Programacion 2\Examen1\Examen1\obj\Debug\Examen1.csproj.AssemblyReference.cache
+D:\Universidad Hispanomericana\Programacion 2\Examen1\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
+D:\Universidad Hispanomericana\Programacion 2\Examen1\Examen1\obj\Debug\Examen1.exe
+D:\Universidad Hispanomericana\Programacion 2\Examen1\Examen1\obj\Debug\Examen1.pdb
