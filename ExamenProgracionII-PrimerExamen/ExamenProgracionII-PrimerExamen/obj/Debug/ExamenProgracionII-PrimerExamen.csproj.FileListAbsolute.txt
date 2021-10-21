@@ -1,0 +1,7 @@
+C:\Users\granp\source\repos\ExamenProgracionII-PrimerExamen\ExamenProgracionII-PrimerExamen\obj\Debug\ExamenProgracionII-PrimerExamen.csproj.AssemblyReference.cache
+C:\Users\granp\source\repos\ExamenProgracionII-PrimerExamen\ExamenProgracionII-PrimerExamen\obj\Debug\ExamenProgracionII-PrimerExamen.csproj.CoreCompileInputs.cache
+C:\Users\granp\source\repos\ExamenProgracionII-PrimerExamen\ExamenProgracionII-PrimerExamen\bin\Debug\ExamenProgracionII-PrimerExamen.exe.config
+C:\Users\granp\source\repos\ExamenProgracionII-PrimerExamen\ExamenProgracionII-PrimerExamen\bin\Debug\ExamenProgracionII-PrimerExamen.exe
+C:\Users\granp\source\repos\ExamenProgracionII-PrimerExamen\ExamenProgracionII-PrimerExamen\bin\Debug\ExamenProgracionII-PrimerExamen.pdb
+C:\Users\granp\source\repos\ExamenProgracionII-PrimerExamen\ExamenProgracionII-PrimerExamen\obj\Debug\ExamenProgracionII-PrimerExamen.exe
+C:\Users\granp\source\repos\ExamenProgracionII-PrimerExamen\ExamenProgracionII-PrimerExamen\obj\Debug\ExamenProgracionII-PrimerExamen.pdb
