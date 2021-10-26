@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Examen1LuisPardo\Examen1LuisPardo\bin\Debug\Examen1LuisPardo.exe.config
+C:\Users\Lenovo\source\repos\Examen1LuisPardo\Examen1LuisPardo\bin\Debug\Examen1LuisPardo.exe
+C:\Users\Lenovo\source\repos\Examen1LuisPardo\Examen1LuisPardo\bin\Debug\Examen1LuisPardo.pdb
+C:\Users\Lenovo\source\repos\Examen1LuisPardo\Examen1LuisPardo\obj\Debug\Examen1LuisPardo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Examen1LuisPardo\Examen1LuisPardo\obj\Debug\Examen1LuisPardo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Examen1LuisPardo\Examen1LuisPardo\obj\Debug\Examen1LuisPardo.exe
+C:\Users\Lenovo\source\repos\Examen1LuisPardo\Examen1LuisPardo\obj\Debug\Examen1LuisPardo.pdb
