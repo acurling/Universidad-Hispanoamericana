@@ -1,0 +1,2 @@
+C:\Users\Gazo\Desktop\Examen-1-programacion2-Examen1-Gazo\Examen 1 programacion2\obj\Debug\Examen 1 programacion2.csproj.AssemblyReference.cache
+C:\Users\Gazo\Desktop\Examen-1-programacion2-Examen1-Gazo\Examen 1 programacion2\obj\Debug\Examen 1 programacion2.csproj.CoreCompileInputs.cache
