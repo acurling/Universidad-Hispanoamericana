@@ -1,0 +1,2 @@
+C:\Users\Gazo\Desktop\tarea3-master\tarea3\obj\Debug\tarea3.csproj.AssemblyReference.cache
+C:\Users\Gazo\Desktop\tarea3-master\tarea3\obj\Debug\tarea3.csproj.CoreCompileInputs.cache
