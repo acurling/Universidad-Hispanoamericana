@@ -1,0 +1,7 @@
+C:\Users\CURLING\source\repos\Clase4TryCatchString\Clase4TryCatchString\bin\Debug\Clase4TryCatchString.exe.config
+C:\Users\CURLING\source\repos\Clase4TryCatchString\Clase4TryCatchString\bin\Debug\Clase4TryCatchString.exe
+C:\Users\CURLING\source\repos\Clase4TryCatchString\Clase4TryCatchString\bin\Debug\Clase4TryCatchString.pdb
+C:\Users\CURLING\source\repos\Clase4TryCatchString\Clase4TryCatchString\obj\Debug\Clase4TryCatchString.csproj.AssemblyReference.cache
+C:\Users\CURLING\source\repos\Clase4TryCatchString\Clase4TryCatchString\obj\Debug\Clase4TryCatchString.csproj.CoreCompileInputs.cache
+C:\Users\CURLING\source\repos\Clase4TryCatchString\Clase4TryCatchString\obj\Debug\Clase4TryCatchString.exe
+C:\Users\CURLING\source\repos\Clase4TryCatchString\Clase4TryCatchString\obj\Debug\Clase4TryCatchString.pdb
